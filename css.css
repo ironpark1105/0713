@@ -1,0 +1,35 @@
+html body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.img {
+    position: absolute;
+    margin-top: 100px;
+    left: 50%;
+    margin-left: -450px;
+}
+
+#class {
+    position: relative;
+    width: 100%;
+    height: 297px;
+}
+
+#class .class1{
+position: absolute;
+right: 0;
+top: 0;
+width: 700px;
+height: 294px;
+background-image: url(../박철현/125188556__________________1__2_.png);
+}
+
+#class .class2{
+position: absolute;
+left: 300px;
+top: 0;
+width: 700px;
+height: 638px;
+background-image: url(../박철현/125188641_0_136fae_b42159d4_orig.png);
+}
